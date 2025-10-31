@@ -1,0 +1,15 @@
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\BillCalculator.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\impl\BasicBillCalculator.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\impl\BillWithTaxesCalculator.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\impl\colombia\StandardTaxesCalculator.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\impl\colombia\TaxesCalculator2016ColTributaryReform.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\beans\TaxesCalculator.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\DTO\TotalResponse.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\model\Order.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\model\ProductType.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\model\RestaurantProduct.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\RestapidemoApplication.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\restcontrollers\OrdersAPIController.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\services\OrderServicesException.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\services\RestaurantOrderServices.java
+C:\Users\vicente.garzon-r\Downloads\Parcial_ARSW_2T\src\main\java\edu\eci\arsw\myrestaurant\services\RestaurantOrderServicesStub.java
